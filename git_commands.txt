@@ -1,0 +1,16 @@
+git restore testing.py
+git --version
+ls
+git checkout --testing.py
+ls -a
+git status
+git checkout -- testing.py
+ls
+git status
+history
+ls
+git status
+git add git_commands.txt
+git status
+git commit -m "Added commands file"
+git status  
